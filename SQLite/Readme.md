@@ -8,3 +8,7 @@ Here I will post my own python tool to digital forensics in sqlite database.
   in database.
   
   Automatic calc <b>sha1 hash</b> when use dump (-d) or save data to file (-o) options.
+
+# Digital Forensics Time Converter Tools 1.0
+
+  <b>DFTime</b> is a free converter tool for WhatsApp SQLite timestamp and others.
