@@ -11,4 +11,4 @@ Here I will post my own python tool to digital forensics in sqlite database.
 
 # Digital Forensics Time Converter Tools 1.0
 
-  <b>DFTime</b> is a free converter tool for WhatsApp SQLite timestamp and others.
+  <b>DFTime.py</b> is a free converter tool for WhatsApp SQLite timestamp and others.
