@@ -12,3 +12,7 @@ Here I will post my own python tool to digital forensics in sqlite database.
 # Digital Forensics Time Converter Tools 1.0
 
   <b>DFTime.py</b> is a free converter tool for WhatsApp SQLite timestamp and others.
+
+# SQLite Yara Rule
+
+  <b> sqlite.yar </b> is a yara rule to detect SQLite Database in Forensics File Image
