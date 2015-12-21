@@ -6,7 +6,7 @@
 rule with_sqlite : sqlite
 {
 	meta:
-		author = "Julian J. Gonzalez <julian.gonzalez@seguridadparatodos.es>"
+		author = "Julian J. Gonzalez <info@seguridadparatodos.es>"
 		reference = "http://www.st2labs.com"
 		description = "Rule to detect the presence of SQLite data in raw image"
 	strings:
@@ -19,7 +19,7 @@ rule with_sqlite : sqlite
 rule without_sqlite : nosqlite
 {
 	meta:
-		author = "Julian J. Gonzalez <julian.gonzalez@seguridadparatodos.es>"
+		author = "Julian J. Gonzalez <info@seguridadparatodos.es>"
 		reference = "http://www.st2labs.com"
 		description = "Rule to detect the presence of SQLite data in raw image"
 	strings:
